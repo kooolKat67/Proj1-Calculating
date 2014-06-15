@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project 301: Proj1 - Calculations on the Cartesian Plane
+
+courseName=CMSC131
+semester=201401
+projectNumber=301
+courseKey=3d526a7c55acabd5
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2014
+submitURL=https://submit.cs.umd.edu:443/spring2014/eclipse/SubmitProjectViaEclipse
